@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1371" started-at="2016-10-01T01:56:49Z" finished-at="2016-10-01T01:56:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1371" started-at="2016-10-01T01:56:49Z" finished-at="2016-10-01T01:56:51Z">
+      <class name="test.TwitterTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.TwitterTest@56f4468b]" name="beforeSuite" is-config="true" duration-ms="20" started-at="2016-09-30T21:56:49Z" finished-at="2016-09-30T21:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.TwitterTest@56f4468b]" name="beforeClass" is-config="true" duration-ms="1333" started-at="2016-09-30T21:56:49Z" finished-at="2016-09-30T21:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="idTest()[pri:0, instance:test.TwitterTest@56f4468b]" name="idTest" duration-ms="11" started-at="2016-09-30T21:56:51Z" finished-at="2016-09-30T21:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idTest -->
+        <test-method status="PASS" signature="statusCodeTest()[pri:0, instance:test.TwitterTest@56f4468b]" name="statusCodeTest" duration-ms="1" started-at="2016-09-30T21:56:51Z" finished-at="2016-09-30T21:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCodeTest -->
+        <test-method status="PASS" signature="textTest()[pri:0, instance:test.TwitterTest@56f4468b]" name="textTest" duration-ms="1" started-at="2016-09-30T21:56:51Z" finished-at="2016-09-30T21:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.TwitterTest@56f4468b]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-09-30T21:56:51Z" finished-at="2016-09-30T21:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.TwitterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
